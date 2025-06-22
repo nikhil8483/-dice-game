@@ -1,0 +1,24 @@
+.rules-box {
+  padding: 20px;
+  margin-top: 20px;
+  max-width: 600px;
+  margin: 20px auto; /* top-bottom 20px, left-right auto (centered) */
+  background-color: hwb(0 91% 7%);
+ border-radius: 5px;
+}
+
+.rules-box h1 {
+  margin-bottom: 10px;
+  font-size: 22px;
+  color: black;
+}
+.rules-box p {
+ color: black;
+  font-size: 10px;
+}
+.result-box{
+  display: flex;
+justify-content: space-around;
+ gap: 700px;
+ margin-top: 10px;
+}

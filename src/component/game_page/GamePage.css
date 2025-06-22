@@ -1,0 +1,35 @@
+.game-page {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  background-color: #f9f9f9; /* optional background */
+}
+.game-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  gap: 1.5rem;
+}
+.contact-text{
+    font-size: 100px;
+    color: black;
+}
+.game-image img {
+  width: 600px;
+  height: auto;
+}
+.button{
+     border: none; 
+     background-color: black;
+     color: #f9f9f9;
+     border-radius: 5px;
+     cursor: pointer;
+     width: 200px;
+     height: 35px;
+     margin-left: auto;
+     display: block;
+
+}
+
